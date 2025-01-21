@@ -1,4 +1,4 @@
-PacBio_PCR_straglr_to_downstream_analysis_steps
+PacBio_PCR_straglr_to_downstream_analysis_steps:
 ================
 
 ### sample: PacBio target PCR bam files on TERT and CLPTM1L region
